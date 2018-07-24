@@ -1,11 +1,11 @@
-``zha``
+``zhatil``
 =======
-.. image:: https://travis-ci.org/solus-impar/zha.png
+.. image:: https://travis-ci.org/solus-impar/zhatil.png
    :alt: Build Status
-   :target: https://travis-ci.org/solus-impar/zha
+   :target: https://travis-ci.org/solus-impar/zhatil
 
-.. image:: https://readthedocs.org/projects/zha/badge/?version=latest
+.. image:: https://readthedocs.org/projects/zhatil/badge/?version=latest
    :alt: Documentation Status  
-   :target: https://zha.readthedocs.io/en/latest/?badge=latest
+   :target: https://zhatil.readthedocs.io
 
-A chat bot framework.
+🤖 A chat bot framework.
